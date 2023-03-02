@@ -1,1 +1,14 @@
 theme: minima
+
+header_pages:
+  - about.md
+  - portfolio.md
+  - experience.md
+
+author:
+  name: Camila Izquierdo
+  email: camila.izquierdo@queensu.ca
+
+minima:
+  social_links:
+    - {platform: linkedin, user_url: "https://linkedin.com/in/camila-izquierdo"}
