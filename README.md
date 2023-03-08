@@ -1,9 +1,5 @@
-<header>
-Camila Izquierdo
-</header>
+## Home
 
-# Home
-
-## Welcome to my homepage! 
-
-[About Me](camizqu.github.io/about)
+[About Me](https://camizqu.github.io/about)
+[My Experience](https://camizqu.github.io/experience)
+[Past Projects](https://camizqu.github.io/portfolio)
