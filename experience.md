@@ -1,4 +1,5 @@
-# Technical and Work Experience
+
+Technical and Work Experience
 
 ## Novari
 **Kingston, Ontario**
