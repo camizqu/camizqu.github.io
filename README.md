@@ -1,3 +1,6 @@
+--- title: Home ---
+
+<h2> Home </h2>
 
 ### [About Me](https://camizqu.github.io/about)
 
