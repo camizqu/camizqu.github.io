@@ -1,4 +1,4 @@
-About Me
+#About Me
 
 Hi! My name's Camila, and I just graduated from Queen's University with a Bachelor's in Computer Engineering, Software Systems. You can see my involvement and past work experience [here](https://camizqu.github.io/experience.html)!
 
