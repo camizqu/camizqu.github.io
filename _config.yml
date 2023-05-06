@@ -11,4 +11,5 @@ author:
 
 minima:
   social_links:
-    - {platform: linkedin, user_url: "https://linkedin.com/in/camila-izquierdo"}
+    - platform: linkedin
+      user_url: "https://linkedin.com/in/camila-izquierdo"
